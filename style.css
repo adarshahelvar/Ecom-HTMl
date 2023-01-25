@@ -115,8 +115,6 @@
 
 .poster {
   display: flex;
-  /* height: 20px; */
-  /* /* width: 50%; */
 }
 
 .poster_bg {
@@ -674,3 +672,402 @@ strike {
 .fa-github {
   margin-left: 25px;
 }
+
+@media screen and (max-width: 320px) {
+
+  .header {
+    width: 400%;
+  }
+
+  .header_pages {
+    margin-right: 400px;
+  }
+
+  .signin {
+    height: 5px;
+  }
+
+  .poster_bg {
+    width: 400%;
+  }
+
+  .girl_poster {
+    width: 1%;
+    margin-left: 20px;
+  }
+
+  .discount {
+    margin-left: 700px;
+    font-size: 30px;
+  }
+  
+  .wntr_cln {
+    margin-left: 700px;
+    margin-top: 190px;
+    font-size: 50px;
+  }
+  
+  .clth_cln_pra {
+    margin-left: 700px;
+    margin-top: 305px;
+    font-style: italic;
+    font-size: 30px;
+  }
+  
+  .shop_now {
+    margin-left: 700px;
+    margin-top: 430px;
+  }
+
+  .shop_cat {
+    font-size: 40px;
+  }
+
+  .category {
+    /* display: flex; */
+    margin-top: 60px;
+  }
+
+  .cat_img {
+    margin-left: 80px;
+  }
+
+  #cat_img3 {
+    display: none !important;;
+  }
+
+  .cat {
+    margin-left: 380px;
+  }
+
+  .new_deal_btn{
+    margin-left: 360px;
+  }
+
+  .new_cln {
+    margin-left: 380px;
+  }
+
+  .new_cln2_dis {
+  margin-left: 910px;
+}
+
+.new_cln_win {
+  margin-left: 910px;
+}
+
+.new_cln2 {
+  margin-left: 910px;
+  margin-top: 210px;
+}
+
+.prod_list {
+  display: none;
+}
+.cat3 {
+  display: none;
+}
+.new_deal_btn3{
+  display: none;
+}
+.new_cln3 {
+  display: none;
+}
+
+.lest_prd_img1 {
+  padding: 10px;
+  margin-left: 0px;
+}
+
+.lest_prd_img2 {
+  padding: 10px;
+  margin-left: 0px;
+}
+  
+.yello_bg {
+  width: 365% ;
+  height: 500px;
+  overflow: visible;
+}
+
+.pstr_wrt {
+  font-size: 20px;
+}
+
+.pstr_wrt2 {
+  display: none;
+}
+
+.shp_nw_btn {
+  margin-top: 1050px;
+  margin-left: 580px;
+}
+
+.shirt_side {
+  margin-top: 1100px;
+  margin-left: 800px;
+}
+
+.p_ctn {
+  display: none;
+}
+
+.clcn_of_mnth {
+  display: flex;
+  margin-top: 200px;
+  margin-left: 150px;
+}
+
+.collection_img2 {
+  margin-left: 300px;
+}
+
+.latest_offer {
+  display: flex;
+  overflow: visible;
+}
+
+.subs_p {
+  display: none !important;;
+}
+
+.email_hldr {
+  margin-left: 600px;
+}
+
+.shp_nw_btn4 {
+  margin-left: 800px;
+}
+
+.txt_sec {
+  margin-left: 250px;
+}
+
+.text_txt {
+  display: block;/* or inline-block */
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 10.6em;
+  line-height: 1.8em;
+}
+
+.im1 {
+  width: 200px;
+  height: 200px;
+  
+}
+.im2 {
+  width: 200px;
+  height: 200px;
+}
+.im3 {
+  width: 200px;
+  height: 200px;
+}
+.im4 {
+  width: 200px;
+  height: 200px;
+}
+.im5 {
+  width: 200px;
+  height: 200px;
+}
+
+.cpy_rit {
+  font-size: 20px;
+}
+}
+
+ 
+
+@media screen and (max-width: 768px) {
+
+  .header {
+    width: 198%;
+    height: 40px;
+  }
+
+  .header_pages {
+    margin-right: 400px;
+  }
+  
+  .header2_pages {
+    display: none;
+  }
+
+  .search_bar{
+    margin-left: 400px;
+  }
+
+  .signin {
+    height: 55px;
+  }
+
+  .poster_bg {
+    width: 400%;
+  }
+
+  .girl_poster {
+    width: 100%;
+    margin-left: 0px;
+  } 
+
+  .discount {
+    margin-left: 900px;
+    font-size: 30px;
+  }
+  
+  .wntr_cln {
+    margin-left: 900px;
+    margin-top: 190px;
+    font-size: 50px;
+  }
+  
+  .clth_cln_pra {
+    margin-left: 900px;
+    margin-top: 305px;
+    font-style: italic;
+    font-size: 30px;
+  }
+  
+  .shop_now {
+    margin-left: 900px;
+    margin-top: 430px;
+  }
+
+  
+  .shop_cat {
+    font-size: 40px;
+  }
+
+  .category {
+    margin-top: 40px;
+  }
+
+  .cat_img {
+    margin-left: 150px;
+  }
+
+  #cat_img3 {
+    display: none !important;;
+  }
+
+  .cat {
+    margin-left: 480px;
+  }
+
+  .new_deal_btn{
+    margin-left: 440px;
+  }
+
+  .new_cln {
+    margin-left: 480px;
+  }
+
+  .new_cln2_dis {
+  margin-left: 1110px;
+}
+
+.new_cln_win {
+  margin-left: 1110px;
+}
+
+.new_cln2 {
+  margin-left: 1110px;
+  margin-top: 210px;
+}
+
+.prod_list {
+  display: none;
+}
+.cat3 {
+  display: none;
+}
+.new_deal_btn3{
+  display: none;
+}
+.new_cln3 {
+  display: none;
+}
+
+.lest_prd_img1 {
+  padding: 10px;
+  margin-left: 100px;
+}
+
+.lest_prd_img2 {
+  padding: 10px;
+  margin-left: 100px;
+}
+
+ 
+.yello_bg {
+  width: 180% ;
+  height: 500px;
+  overflow: visible;
+}
+
+.pstr_wrt {
+  font-size: 40px;
+}
+
+.pstr_wrt2 {
+  display: none;
+}
+
+.shp_nw_btn {
+  margin-top: 1150px;
+  margin-left: 580px;
+}
+
+.shirt_side {
+  margin-top: 1000px;
+  margin-left: 1000px;
+}
+
+
+.p_ctn {
+  display: none;
+}
+
+.clcn_of_mnth {
+  display: flex;
+  margin-top: 200px;
+  margin-left: 150px;
+}
+
+.collection_img2 {
+  margin-left: 400px;
+}
+
+.latest_offer {
+  display: flex;
+  overflow: visible;
+}
+
+.sec3 {
+  margin-left: 20px;
+}
+
+.txt_sec {
+  display: none;
+}
+.last_footer {
+  display: inline;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.fa-instagram {
+  margin-left: 600px;
+}
+
+.fa-linkedin-square {
+  margin-left: 25px;
+}
+
+.fa-github {
+  margin-left: 25px;
+}
+} 
